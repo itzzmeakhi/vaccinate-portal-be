@@ -73,10 +73,6 @@ npm run server
   https://documenter.getpostman.com/view/6868293/2sB2jAa7hR
   
 
-## 📸 Screenshots
-
-* (Add screenshots of API responses using Postman)
-
 ## 🤝 Contributing
 
 1. Fork the repository.
